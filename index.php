@@ -15,44 +15,33 @@
 					<h1 class="spravka">Справочники</h1>
 				</div>
 				<div class="col-xl-4">
-					<div class="example"></div>
-					<div class="example"></div>
 					<div class="main_block ico-1">
-						<p>Типы ошибок</p>
 					</div>
 
 					<div class="main_block ico-4">
-						<p>Библиотека тестов</p>
 					</div>
 					
 					<div class="main_block ico-7">
-						<p>Кредитные продукты</p>
 					</div>
 				</div>
 				<div class="col-xl-4">
 					<div class="main_block ico-2">
-						<p>Коды ошибок</p>
 					</div>
 
 					<div class="main_block ico-5">
-						<p>Оповещения</p>
 					</div>
 
 					<div class="main_block ico-8">
-						<p>Оценки АР</p>
 					</div>
 				</div>
 				<div class="col-xl-4">
 					<div class="main_block ico-3">
-						<p>Коды благонадежности</p>
 					</div>
 					
 					<div class="main_block ico-6">
-						<p>Нормативные обработки заявки</p>
 					</div>
 
 					<div class="main_block ico-9">
-						<p>Реестр средних значений</p>
 					</div>
 				</div>
 			</div>
