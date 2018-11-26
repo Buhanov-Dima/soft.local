@@ -26,6 +26,7 @@ p {margin: 0;}
   align-items: center;
   margin-bottom: 20px;
   min-height: 113px;
+  flex-basis: 30%;
 }
 
 .main_block {
@@ -84,4 +85,30 @@ p {margin: 0;}
 
 .hide {
   display: none;
+}
+
+
+
+
+.first_line_name {
+  display: flex;
+  justify-content: space-between;
+}
+
+.value_directory {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  flex-basis: 45%;
+}
+.weight {
+  flex-basis: 15%;
+}
+.point {
+  flex-basis: 20%;
+}
+.endDate {
+  flex-basis: 20%;
 }

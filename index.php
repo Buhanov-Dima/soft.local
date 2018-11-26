@@ -14,31 +14,29 @@
 				<div class="col-xl-12">
 					<h1 class="spravka">Справочники</h1>
 				</div>
-				<div class="col-xl-4">
+				<div class="col-xl-12 d-flex flex-wrap justify-content-between">
 					<div class="main_block ico-1">
 					</div>
 
-					<div class="main_block ico-4">
+					<div class="main_block ico-2">
 					</div>
 					
-					<div class="main_block ico-7">
+					<div class="main_block ico-3">
 					</div>
-				</div>
-				<div class="col-xl-4">
-					<div class="main_block ico-2">
+
+					<div class="main_block ico-4">
 					</div>
 
 					<div class="main_block ico-5">
 					</div>
 
-					<div class="main_block ico-8">
+					<div class="main_block ico-6">
 					</div>
-				</div>
-				<div class="col-xl-4">
-					<div class="main_block ico-3">
+
+					<div class="main_block ico-7">
 					</div>
 					
-					<div class="main_block ico-6">
+					<div class="main_block ico-8">
 					</div>
 
 					<div class="main_block ico-9">

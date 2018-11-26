@@ -22,7 +22,20 @@
 					<div class="">
 						<p>Фильтр</p>
 						<input type="search" placeholder="Поиск">
-						<div class="example"></div>
+					</div>
+					<div class="main__value">
+						<div class="first_line_name">
+							<div class="f_name"></div>
+							<div class="f_weight"></div>
+							<div class="f_point"></div>
+							<div class="f_endDate"></div>
+						</div>
+						<div class="value_directory">
+							<div class="name"></div>
+							<div class="weight"></div>
+							<div class="point"></div>
+							<div class="endDate"></div>
+						</div>
 					</div>
 				</div>
 			</div>
